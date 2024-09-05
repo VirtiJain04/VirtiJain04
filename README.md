@@ -1,4 +1,5 @@
-I want to work on following topics-
+Hey! I am Virti and here is the list of topics that I would like to work on next - 
+
 1. Cultural Heritage Preservation using Computer Vision 
 2. Healthcare Data Analysis
 3. Natural Language Processing (NLP) for Indian Language.
