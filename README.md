@@ -1,7 +1,3 @@
-Here’s a professional summary for your GitHub profile based on your resume:
-
----
-
 👋 **Hello! I'm Virti Jain**
 
 I am a graduate student in Data Science at Stony Brook University with a solid foundation in machine learning, deep learning, and data analytics. My experience spans various domains, including energy forecasting, smart grids, and NLP-driven mental health diagnostics. I’m skilled in Python, SQL, TensorFlow, and data visualization tools like Power BI and Tableau, which I use to derive meaningful insights from complex data sets. 
